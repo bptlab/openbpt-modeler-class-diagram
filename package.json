@@ -1,17 +1,17 @@
 {
-  "name": "openbpt-modeler-template",
+  "name": "openbpt-modeler-class-diagram",
   "version": "0.0.1",
-  "description": "Generic template based on diagram-js for modelers used in the OpenBPT platform.",
+  "description": "Class diagram modeler based on diagram-js for use in the OpenBPT platform.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bptlab/openbpt-modeler-template"
+    "url": "https://github.com/bptlab/openbpt-modeler-class-diagram"
   },
   "author": "Maximilian König",
   "license": "MIT",
   "keywords": [
     "modeler",
     "modeling",
-    "template",
+    "class diagram",
     "diagram-js"
   ],
   "main": "index.js",
