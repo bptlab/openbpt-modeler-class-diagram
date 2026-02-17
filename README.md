@@ -31,4 +31,6 @@ In most cases, it should not be necessary to modify the metamodel of the *syntac
 
 ### Adding Icons
 
+To include your own icons in the palette and context pads, create plain SVG files and places them in the `assets/icons` folder. Make sure to use descriptive names, as file names will be used as icon identifiers. Afterwards, execute `npm run build:icons` to generate the image URLs that will be used by diagram.js to render the icons.
+
 ### Adapting the Modeler

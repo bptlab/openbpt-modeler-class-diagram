@@ -1,6 +1,5 @@
 @import "diagram-js/assets/diagram-js.css";
 @import "bpmn-font/dist/css/bpmn.css";
-@import url("./icons/css/pn.css");
 
 /* Overwriting diagram-js classes */
 .djs-context-pad .entry.active {
@@ -8,6 +7,29 @@
   border: solid 1px var(--popup-header-entry-selected-color);
   background-color: var(--popup-header-entry-selected-background-color);
   font-size: 20px;
+}
+
+/* center diagram-js palette / context-pad icons */
+.djs-context-pad .entry,
+.djs-palette .entry {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.djs-context-pad .entry img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  display: block;
+}
+
+.djs-palette .entry img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  display: block;
 }
 
 .djs-palette .separator {
