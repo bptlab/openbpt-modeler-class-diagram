@@ -1,6 +1,6 @@
 {
   "name": "@bptlab/openbpt-modeler-class-diagram",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Class diagram modeler based on diagram-js for use in the OpenBPT platform.",
   "repository": {
     "type": "git",
