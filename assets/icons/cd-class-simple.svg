@@ -5,12 +5,35 @@
    viewBox="0 0 2048.0001 2048"
    height="2048mm"
    width="2048mm"
+   sodipodi:docname="cd-class-simple.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.047413127"
+     inkscape:cx="4038.9659"
+     inkscape:cy="-2762.9479"
+     inkscape:window-width="3200"
+     inkscape:window-height="1712"
+     inkscape:window-x="3592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
@@ -51,11 +74,11 @@
        x="73.659996"
        y="-1430.235" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:44.5449;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:99.9995;stroke-dasharray:none"
        id="rect3"
-       width="1805.455"
-       height="880.45502"
-       x="108.94286"
-       y="-1423.585" />
+       width="1750.0004"
+       height="851.92078"
+       x="136.67021"
+       y="-1409.3176" />
   </g>
 </svg>
