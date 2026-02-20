@@ -12,6 +12,6 @@ This tool allows for the creation of simplified UML Class Diagrams through an in
 6. Navigate into the created directory
 7. Follow the setup instructions of the development repository
 8. Run ``npm install``
-9. Run ``npm link openbpt-typed-pn-variants-modeler``
+9. Run ``npm link @bptlab/openbpt-modeler-class-diagram``
 
 To start the modeler, run ``npm run dev`` in the development repo's directory.
